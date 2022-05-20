@@ -1,0 +1,8 @@
+hu\nye\webapp\hotel\dto\ClientDTO.class
+hu\nye\webapp\hotel\Application.class
+hu\nye\webapp\hotel\configuration\UtilConfiguration.class
+hu\nye\webapp\hotel\entity\Client.class
+hu\nye\webapp\hotel\service\impl\ClientServiceImpl.class
+hu\nye\webapp\hotel\controller\ClientController.class
+hu\nye\webapp\hotel\repository\ClientRepository.class
+hu\nye\webapp\hotel\service\ClientService.class

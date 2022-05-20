@@ -1,0 +1,8 @@
+C:\__git\_webapp\base\src\main\java\hu\nye\webapp\hotel\Application.java
+C:\__git\_webapp\base\src\main\java\hu\nye\webapp\hotel\service\ClientService.java
+C:\__git\_webapp\base\src\main\java\hu\nye\webapp\hotel\entity\Client.java
+C:\__git\_webapp\base\src\main\java\hu\nye\webapp\hotel\service\impl\ClientServiceImpl.java
+C:\__git\_webapp\base\src\main\java\hu\nye\webapp\hotel\repository\ClientRepository.java
+C:\__git\_webapp\base\src\main\java\hu\nye\webapp\hotel\controller\ClientController.java
+C:\__git\_webapp\base\src\main\java\hu\nye\webapp\hotel\dto\ClientDTO.java
+C:\__git\_webapp\base\src\main\java\hu\nye\webapp\hotel\configuration\UtilConfiguration.java
